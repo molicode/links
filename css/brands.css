@@ -203,6 +203,14 @@
     content: 'Aquí encontraras el código fuente de los tutoriales que explico en mi canal de youtube entre otros';
     white-space: initial; }
 
+/* LinkedIn */
+.button.button-linkedin {
+    color: #FFFFFF;
+    background-color: #2867B2 }
+.button.button-linkedin:hover,
+.button.button-linkedin:focus {
+    filter: brightness(90%) }
+
 /* Medium */
 .button.button-medium {
     color: #FFFFFF;
